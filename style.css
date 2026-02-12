@@ -1,0 +1,37 @@
+*{
+    background-color: #032152;
+    font-family: 'Indie flower', cursive;
+    color: white;
+}
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+
+}
+.dados{
+    display: inline-block;
+}
+ 
+h1 {
+    margin: 30px;
+    font-family: "lobster", cursive;
+    text-shadow:  4px 0 #232931;
+    font-size: 8rem;
+    color: #4ECCA3;
+
+}
+h2 {
+    font-size: 2rem;
+    color: #4ecca3;
+
+}
+img {
+    width: 80%;
+}
+
+footer {
+    margin-top: 5%;
+    text-align: center;
+    
+}
