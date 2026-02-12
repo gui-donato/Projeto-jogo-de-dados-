@@ -29,6 +29,13 @@ h2 {
 img {
     width: 80%;
 }
+.btn {
+    display: block;
+    margin-top: 20px;
+ 
+
+}
+
 
 footer {
     margin-top: 5%;
